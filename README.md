@@ -55,28 +55,28 @@ Short, vague tasks work best. Precise tasks gain little.
 ### Examples
 
 ```text
-Deepen this: make the member portal load faster
+Deepen this: make our web app load faster
 ```
 
 Expect real timings and query plans, not guesses. Proof: a before and after measurement.
 
 ```text
-Deepen this: check the offload runner is reliable
+Deepen this: check our nightly backup job is reliable
 ```
 
-Expect a start from the runner logs and failed jobs. Expect kill tests, like a reboot mid-job. Proof: a job that survives a restart.
+Expect a start from the job logs and past failures. Expect kill tests, like a reboot mid-job. Proof: a job that survives a restart.
 
 ```text
-Deepen this: write this week's newsletter
+Deepen this: write this week's customer newsletter
 ```
 
-Expect a start from the stream transcripts, not old summaries. Proof: quotes in the speaker's own words.
+Expect a start from support tickets and release notes, not old summaries. Proof: open and click rates against past issues.
 
 ```text
-Deepen this: tidy up my system guide
+Deepen this: tidy up our team wiki
 ```
 
-Expect each section checked against real paths. Proof: every listed path exists.
+Expect each page checked against the real systems. Proof: every link and path still works.
 
 ```text
 Deepen this: should we raise our prices?
