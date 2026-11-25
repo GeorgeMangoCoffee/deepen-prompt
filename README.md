@@ -15,6 +15,19 @@ It never does the task itself. You get a rewritten prompt to copy.
 
 ## Install
 
+### Easiest: ask your AI
+
+Paste this into Claude Code, Codex, Cursor or any coding agent:
+
+```text
+Install the deepen-prompt skill from https://github.com/GeorgeMangoCoffee/deepen-prompt.
+Clone the repo. Link or copy its deepen-prompt folder into my skills folder
+(~/.claude/skills for Claude Code, or your own skills folder).
+Then check that the skill loads.
+```
+
+The chat side of the Claude app can't install skills by itself. Do the upload steps below. It takes a minute.
+
 ### Claude desktop app and claude.ai (chat)
 
 1. Download [`deepen-prompt.zip`](deepen-prompt.zip) from this repo.
